@@ -15,7 +15,7 @@ setup(
             "github-commits-fetcher=github_commits_fetcher.fetcher:main",
         ],
     },
-    author="xingqing chen",
+    author="xingqiang chen",
     author_email="joy6677@qq.com",
     description="A tool to fetch and process GitHub commits",
     long_description=open("README.md").read(),
